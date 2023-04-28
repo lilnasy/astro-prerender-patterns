@@ -1,0 +1,11 @@
+{
+    "name"            : "astro-prerender-patterns",
+    "version"         : "0.1.0",
+    "type"            : "module",
+    "homepage"        : "https://github.com/lilnasy/astro-prerender-patterns",
+    "repository"      : { "type": "git", "url": "https://github.com/lilnasy/astro-prerender-patterns" },
+    "bugs"            : { "url": "https://github.com/lilnasy/astro-prerender-patterns/issues" },
+    "files"           : [ "index.js" ],
+    "keywords"        : [ "astro", "withastro", "integration", "prerender", "prerender-patterns" ],
+    "devDependencies" : { "astro": "2.3.2" }
+}
